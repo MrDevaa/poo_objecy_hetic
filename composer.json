@@ -1,0 +1,16 @@
+{
+    "name": "narut/classic-model",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Narut\\ClassicModel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Devanandhan",
+            "email": "d.codandabany@gmail.com"
+        }
+    ],
+    "require": {}
+}
